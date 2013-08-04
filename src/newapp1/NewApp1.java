@@ -6,7 +6,6 @@ public class NewApp1 {
     public static void main(String[] args) {
         Scanner cIn = new Scanner(System.in);
         
-            
-        
+        System.out.print(cIn.nextLine());
     }
 }
